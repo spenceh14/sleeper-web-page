@@ -13,7 +13,7 @@ Generate a custom league page for your Sleeper fantasy football league in just a
 ![League Page demo](https://storage.googleapis.com/nfl-player-data/league-page-demo.png)
 
 <div align="center">
-<a href="https://www.legendsleagueff.com/" style="font-size:2em; text-decoration: underline;" >Live demo</a>
+<a href="https://www.ghshasbeensdynasty.com/" style="font-size:2em; text-decoration: underline;" >Live demo</a>
 </div>
 
 <br>
@@ -22,9 +22,8 @@ Generate a custom league page for your Sleeper fantasy football league in just a
 -----------
 <div align="center">
 
-<i>If you and your league like League Page, please consider starring the repo and <b><a href="https://www.buymeacoffee.com/nmelhado" target="_blank">donating</a></b> (and encouraging your league-mates to too!)</i>
 <br>
-    <a href="https://www.buymeacoffee.com/nmelhado" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" width="217px" height="60px" ></a>
+    <a href="https://www.buymeacoffee.com/nmelhado" target="_blank"><img src="" style="height: 60px !important; width: 217px !important;" width="217px" height="60px" ></a>
 </div>
 
 -----------
