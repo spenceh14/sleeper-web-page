@@ -1,4 +1,4 @@
-svelte
+
 <script>
   let username = "";
   let password = "";
