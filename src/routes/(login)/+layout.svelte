@@ -1,7 +1,5 @@
-<!-- App.svelte -->
-
 <script>
-  import LoginForm from './LoginForm.svelte';
+  import LoginForm from './+page.svelte';
 </script>
 
 <main>

@@ -3,15 +3,12 @@
 	import { getNflState, leagueName, getAwards, getLeagueTeamManagers, homepageText, managers, gotoManager, enableBlog, waitForAll } from '$lib/utils/helper';
 	import { Transactions, PowerRankings, HomePost} from '$lib/components';
 	import { getAvatarFromTeamManagers, getTeamFromTeamManagers } from '$lib/utils/helperFunctions/universalFunctions';
-    import { Router, Route, Link } from "svelte-routing";
-    import Login from '../Login.svelte';
     const nflState = getNflState();
     const podiumsData = getAwards();
     const leagueTeamManagersData = getLeagueTeamManagers();
 </script>
-<Router>
-  <Route path="/" component={Login} />
-</Router>
+
+
 
 <style>
     #home {

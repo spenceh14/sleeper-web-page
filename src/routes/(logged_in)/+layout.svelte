@@ -5,7 +5,7 @@
 
 <main>
     <Nav /> <!-- adds the nav (small and large) -->
-  
+
     <slot />
 
     <Footer /> <!-- adds the footer -->
