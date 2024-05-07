@@ -45,6 +45,10 @@
       "description": "View league upcoming and past drafts",
       "url": "/drafts"
     },
+    {,"name": "Trade Finder",
+      "short_name": "Trade Finder",
+      "description": "Data to help find a trade partner",
+      "url": "/trade_finder",
     {
       "name": "Trophy Room",
       "short_name": "Trophy Room",
