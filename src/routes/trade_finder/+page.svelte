@@ -27,7 +27,7 @@
 <div class="holder">
 <iframe 
   bind:this={iframe} 
-  src=https://keeptradecut.com/dynasty/power-rankings/league-overview?leagueId=1048240987706941440&platform=2" 
+  src="https://keeptradecut.com/dynasty/power-rankings/league-overview?leagueId=1048240987706941440&platform=2" 
   id="ktc-pos-rank-iframe" 
   style="width: 800px; height: 600px; overflow: auto;" 
 />
