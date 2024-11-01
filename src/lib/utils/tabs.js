@@ -68,6 +68,11 @@ export const tabs = [
             },
             {
                 icon: 'history_edu',
+                label: 'CBA',
+                dest: '/cba',
+            },
+            {
+                icon: 'history_edu',
                 label: 'Constitution',
                 dest: '/constitution',
             },
