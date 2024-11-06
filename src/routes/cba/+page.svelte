@@ -1,5 +1,7 @@
 <p>CBA Topics </p>
-
+<ul> 
+<li> lowest scorer $10 parlay</li>
+</ul>
 
 
 
